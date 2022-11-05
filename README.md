@@ -1,1 +1,2 @@
 # Open_Source_Resources
+这里是一个公共开源的资源贡献仓库
